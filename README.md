@@ -10,4 +10,4 @@ Find statistics of your League of Legends (LoL) account, uses, C#, Riot Games AP
 
 # Warning
 
-To use this program, you must get an api key from https://developer.riotgames.com/, login with your League of Legends account to get an api key.
+To use this program, you must get an api key from https://developer.riotgames.com/, login with your League of Legends account to get an api key. Place the api key in the apikey.txt file in the bin/debug folder.
