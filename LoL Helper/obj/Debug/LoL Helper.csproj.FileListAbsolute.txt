@@ -1,0 +1,22 @@
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\LoL Helper.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\LoL Helper.exe
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\LoL Helper.pdb
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\en\LoL Helper.resources.dll
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\Newtonsoft.Json.dll
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\RiotSharp.dll
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\System.Reactive.Core.dll
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\System.Reactive.Linq.dll
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\Newtonsoft.Json.xml
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\RiotSharp.xml
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\System.Reactive.Core.xml
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\bin\Debug\System.Reactive.Linq.xml
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\LoL_Helper.Form1.resources
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\LoL_Helper.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\LoL_Helper.Form1.en.resources
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\LoL Helper.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\en\LoL Helper.resources.dll
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\LoL Helper.exe
+c:\users\peter\documents\visual studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\LoL Helper.pdb
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\LoL Helper\LoL Helper\obj\Debug\LoL Helper.csprojResolveAssemblyReference.cache
